@@ -17,7 +17,7 @@ def six_lucky_numbers(): # Defined a function to return a list of six random num
 
 # Example of output when the program is run.
 
-six_lucky_numbers() # To generate the list of 6 numbers, the user will call the function six_lucky_numbers()—no input required.
+print(six_lucky_numbers()) # To print a list of 6 numbers when the user runs this script. 
 
 
 
