@@ -1,5 +1,5 @@
 # Lucky_Number_Generator
-### MGTC28- In-class Sssignment 3
+### MGTC28- In-class Assignment 3
 
 Lucky_number_generator.py is a simple Python script that allows users to generate six random numbers ranging from 1-49 and will return those values in a list. Lucky_number_generator.py uses the **random library** to generate the random numbers from the desired 1-49 range. 
 
